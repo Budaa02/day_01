@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+.form-container{
+    max-width: 650px;
+    border: solid 1px grey;
+    margin: 0 auto;
+}
+#beautiful-form{
+    display: flex;
+    justify-content: center;
+    margin:auto;
+    max-width:300px;
+    flex-direction: column;
+}
+input{
+    width: 300px;
+    margin: 10px 0 10px 0; 
+}
